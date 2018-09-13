@@ -1,0 +1,61 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background-image: url(../images/gran_turismo_5-17.jpg);
+}
+
+.container {
+	position: relative;
+}
+
+header.jumbotron {
+	background: #003791;
+    border-radius: 24px;
+    opacity: .75;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 10px;
+	font-size: 18px;
+}
+
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	letter-spacing: 8px;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #DF0024;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.fast-car {
+	background: black;
+	border-radius: 12px;
+	color: white;
+	font-style: Courier New;
+	font-size: 15px;
+	padding: 10px;
+	margin: 5px;
+	margin-top: 20px;
+}
+
+#car-form {
+	text-align: right;
+}
+
+input#car-input {
+	color: #000;
+}
+
+input#add-car.btn,btn-deafult {
+	color: #000;
+}
